@@ -1,4 +1,4 @@
-# vue2-pdf.js
+# vue3-pdf.js
 
 This is a demo app to show how to use mozilla pdf.js in vuejs 3
 
